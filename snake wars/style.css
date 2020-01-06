@@ -1,0 +1,27 @@
+canvas{
+    border: 10px solid rgb(36, 54, 101);
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1200px;
+    height: 640px;
+    margin-top: 0px;  
+}
+
+body{
+    margin: 0;
+    background-color: rgb(139, 216, 189);
+}
+
+.header{
+    padding: 5px;
+    grid-area: h;
+    background-color:rgb(139, 216, 189);
+    color: rgb(36, 54, 101);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a{
+    color: rgb(36, 54, 101);
+}

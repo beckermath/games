@@ -1,0 +1,32 @@
+.header{
+    padding: 0px;
+    grid-area: h;
+    background-color:#080A52;
+    color: #EB2188;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    margin: 0;
+    background-color: #080A52;
+}
+
+canvas{
+    border: 10px solid #EB2188;
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 1200px;
+    height: 640px;
+    margin-top: 15px;  
+}
+
+.color{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+a{
+    color: #EB2188;
+}
